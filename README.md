@@ -1,6 +1,6 @@
 # Detección de patrones de fraude en consumos eléctricos mediante aprendizaje automático aplicado a contadores inteligentes
 
-Resumen
+**Resumen**
 
 El fraude eléctrico constituye uno de los principales problemas a los que se enfrentan las compañías distribuidoras, debido a las pérdidas económicas y operativas que genera. En este contexto, el presente Trabajo de Fin de Máster tiene como objetivo desarrollar y evaluar un sistema de detección de fraude eléctrico basado en técnicas de aprendizaje automático aplicadas a datos de consumo procedentes de contadores inteligentes.
 
@@ -11,7 +11,7 @@ Los resultados obtenidos muestran que los modelos supervisados alcanzan un rendi
 En conclusión, las técnicas de aprendizaje automático supervisado basadas en gradient boosting son una solución eficaz y fiable para la detección de fraude eléctrico en redes inteligentes.
 
 
-Abstract
+  **Abstract**
 
 Electricity theft is one of the main challenges faced by power distribution companies due to the economic and operational losses it causes. In this context, the aim of this Master’s Thesis aims to develop and evaluate an electricity fraud detection system based on machine learning techniques applied to consumption data from smart meters.
 
