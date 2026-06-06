@@ -1,6 +1,4 @@
-# TFM_Deteccion-de-patrones-de-fraude-en-consumos-electricos
-
-Título: Detección de patrones de fraude en consumos eléctricos mediante aprendizaje automático aplicado a contadores inteligentes
+# Detección de patrones de fraude en consumos eléctricos mediante aprendizaje automático aplicado a contadores inteligentes
 
 Resumen
 El fraude eléctrico constituye uno de los principales problemas a los que se enfrentan las compañías distribuidoras, debido a las pérdidas económicas y operativas que genera. En este contexto, el presente Trabajo de Fin de Máster tiene como objetivo desarrollar y evaluar un sistema de detección de fraude eléctrico basado en técnicas de aprendizaje automático aplicadas a datos de consumo procedentes de contadores inteligentes.
