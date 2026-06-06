@@ -11,6 +11,7 @@ Los resultados obtenidos muestran que los modelos supervisados alcanzan un rendi
 En conclusión, las técnicas de aprendizaje automático supervisado basadas en gradient boosting son una solución eficaz y fiable para la detección de fraude eléctrico en redes inteligentes.
 
 Abstract
+
 Electricity theft is one of the main challenges faced by power distribution companies due to the economic and operational losses it causes. In this context, the aim of this Master’s Thesis aims to develop and evaluate an electricity fraud detection system based on machine learning techniques applied to consumption data from smart meters.
 
 To this end, an exploratory analysis and preprocessing of dataset were carried out, consisting of more than 560,000 energy consumption of more than 560,000 energy consumption records from different types of buildings. Subsequently, three supervised models based on gradient boosting (XGBoost, LightGBM and CatBoost) were implemented, as well as an unsupervised model (Isolation Forest). Hyperparameter optimization was performed using Optuna, employing five-partition cross-validation to ensure the robustness of the results.
